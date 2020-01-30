@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yefeucail.bricktopia.com.au/sitemap.xml
